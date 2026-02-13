@@ -1,4 +1,4 @@
-# 🏍️ ExpoMoto - Landing Page de Evento
+#  ExpoMoto - Landing Page de Evento
 
 ![Preview do Projeto](Layout_motos.jpg)
 
