@@ -43,6 +43,11 @@ A página foi estruturada nas seguintes seções:
 5.  **Rodapé (Footer):**
     * Chamada final para ação (CTA).
     * Informações de contato e créditos do evento.
+  
+Acesse o Projeto
+Escaneie o QR Code abaixo para visualizar:
+
+<img width="205" height="203" alt="QRcode_sitemotos" src="https://github.com/user-attachments/assets/17012983-70b4-43c0-bfda-2e81ea8f9d1b" />
 
 ##  Estrutura de Arquivos
 
