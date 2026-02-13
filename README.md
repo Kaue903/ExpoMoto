@@ -44,6 +44,9 @@ A página foi estruturada nas seguintes seções:
     * Chamada final para ação (CTA).
     * Informações de contato e créditos do evento.
 
+  **Site Online**
+<img width="205" height="203" alt="QRcode_sitemotos" src="https://github.com/user-attachments/assets/17012983-70b4-43c0-bfda-2e81ea8f9d1b" />
+
 ## 📂 Estrutura de Arquivos
 
 ```text
@@ -55,3 +58,9 @@ A página foi estruturada nas seguintes seções:
 │   ├── moto-card1.jpg
 │   └── ...
 └── README.md         # Documentação do projeto
+
+**Site Online**
+<img width="205" height="203" alt="QRcode_sitemotos" src="https://github.com/user-attachments/assets/17012983-70b4-43c0-bfda-2e81ea8f9d1b" />
+
+
+
