@@ -8,7 +8,7 @@ Este projeto consiste em uma **Landing Page** responsiva desenvolvida para a div
 
 O projeto foi realizado como atividade prática em sala de aula no **SENAI**, com o objetivo de aplicar conceitos fundamentais de desenvolvimento web front-end.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 O projeto foi construído utilizando apenas tecnologias nativas:
 
@@ -16,7 +16,7 @@ O projeto foi construído utilizando apenas tecnologias nativas:
 * **CSS3:** Estilização, layouts e posicionamento.
 * **Google Fonts:** Tipografia personalizada.
 
-## 🎨 Layout e Seções
+##  Layout e Seções
 
 A página foi estruturada nas seguintes seções:
 
@@ -44,10 +44,7 @@ A página foi estruturada nas seguintes seções:
     * Chamada final para ação (CTA).
     * Informações de contato e créditos do evento.
 
-  **Site Online**
-<img width="205" height="203" alt="QRcode_sitemotos" src="https://github.com/user-attachments/assets/17012983-70b4-43c0-bfda-2e81ea8f9d1b" />
-
-## 📂 Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```text
 /
@@ -58,9 +55,3 @@ A página foi estruturada nas seguintes seções:
 │   ├── moto-card1.jpg
 │   └── ...
 └── README.md         # Documentação do projeto
-
-**Site Online**
-<img width="205" height="203" alt="QRcode_sitemotos" src="https://github.com/user-attachments/assets/17012983-70b4-43c0-bfda-2e81ea8f9d1b" />
-
-
-
